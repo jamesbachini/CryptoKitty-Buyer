@@ -5,9 +5,11 @@ These tools are for automating the process buying up cryptokitties NFT's.
 ### early-kitties.js 
 This will list the first id's an address holds. Used with the following token vaults you can get a list of the earliest tokens in the vaults. Requires an Alchemy API key.
 
+```
 const wckAddress = '0x09fE5f0236F0Ea5D930197DCE254d77B04128075';
 const wg0Address = '0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057';
 const wvg0Address = '0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611';
+```
 
 ### expensive-kitties.js
 
